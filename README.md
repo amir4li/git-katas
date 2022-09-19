@@ -1,1 +1,1 @@
-Git Katas
+Greetings library
